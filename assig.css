@@ -228,10 +228,15 @@ button{
 
 }
 
+/* responsive */
+
+@media(max-width){
+    425px{background-color: yellow;
+     }
 
 
 
-
+}
 
 
 
